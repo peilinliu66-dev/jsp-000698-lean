@@ -1,0 +1,17 @@
+{
+  "problem": "JSP-000698",
+  "repository": "peilinliu66-dev/jsp-000698-lean",
+  "original_repository": "https://github.com/peilinliu66-dev/awards",
+  "original_proof_commit": "243580f8e4ba7baa14c1a5a7cf33786d11029be6",
+  "original_source_branch": "codex/source-jsp-000698-pr484-243580f8e4ba",
+  "original_project_directory": "submissions/jsp-000698-peilinliu66dev",
+  "current_project_directory": ".",
+  "existing_award_pr": "https://github.com/TheJustinSunPrize/awards/pull/484",
+  "retained_original_branch": "codex/original-proof",
+  "proof_sources_and_dependency_pins_unchanged": true,
+  "existing_build_and_axiom_records_unchanged": true,
+  "documentation_files_updated": [
+    "README.md"
+  ],
+  "migration_date": "2026-10-05"
+}
